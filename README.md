@@ -1,4 +1,4 @@
-News Feed Eradicator
+Polysingular News Feed Eradicator
 ====================
 
 This Chrome extension deletes your facebook news feed
