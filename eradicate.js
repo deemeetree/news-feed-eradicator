@@ -121,7 +121,7 @@ quoteSource = $("<p>~ "+selectedQuote.source+"</p>")
     .addClass('nfe-quote-source')
     .appendTo(quoteDiv);
 
-fbLink = $("<a href='javascript:;'>News Feed Eradicator</a>")
+fbLink = $("<a href='javascript:;'>Polysingular Newsfeed Reconfiguration Info</a>")
     .addClass('nfe-info-link')
     .on('click', function(){
         infoPanel.load(chrome.extension.getURL("info-panel.html"));
