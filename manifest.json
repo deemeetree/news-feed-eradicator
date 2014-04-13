@@ -1,7 +1,7 @@
 {
-	"name": "Polysingular Newsfeed Eradicator for Facebook",
-	"version": "0.6.1",
-	"description": "Find yourself spending too much time on Facebook? Eradicate distractions by replacing your entire news feed with an inspiring quote",
+	"name": "Polysingular Facebook Newsfeed Tuning",
+	"version": "0.6.2",
+	"description": "A set of instructions, quotes, and interesting links to take you out of Facebook filter bubble.",
 	"manifest_version": 2,
 	"permissions": [
 		"http://www.facebook.com/*",
