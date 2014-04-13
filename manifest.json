@@ -1,7 +1,7 @@
 {
-	"name": "Polysingular Facebook Newsfeed Tuning",
+	"name": "Clean Facebook Newsfeed with Polysingularity",
 	"version": "0.6.2",
-	"description": "A set of instructions, quotes, and interesting links to take you out of Facebook filter bubble.",
+	"description": "A set of instructions, quotes, and interesting links to take you out of Facebook filter bubble through polysingularity practice.",
 	"manifest_version": 2,
 	"permissions": [
 		"http://www.facebook.com/*",
