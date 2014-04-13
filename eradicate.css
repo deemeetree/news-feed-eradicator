@@ -34,7 +34,7 @@ a.nfe-quote-source {
 .nfe-info-panel h1
 {
     font-size: 22px;
-    text-align: center;
+    text-align: left;
 }
 
 .nfe-info-panel h2
@@ -45,7 +45,7 @@ a.nfe-quote-source {
 .nfe-info-col
 {
     font-size: 14px;
-    text-align: center;
+    text-align: left;
     padding: 10px;
     margin: 10px;
     border: 1px solid #ccc;

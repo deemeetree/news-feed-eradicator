@@ -1,58 +1,66 @@
 var quoteList = [ 
 	{
-		quote: "If we don't discipline ourselves, the world will do it for us on its own terms.",
-		source: "William Feather, remixed"
-	},
-	{
-		quote: "Every particle is exploding and emploding at every moment of time.",
-		source: "benevolent benefactor"
-	},
-	{
 		quote: "The most plausible mechanism for large-scale integration is the formation of dynamic links mediated by synchrony over multiple frequency bands.",
 		source: "<a href='http://www.nature.com/nrn/journal/v2/n4/abs/nrn0401_229a.html' target='_blank'>Varela et al 2001</a>"
 	},
 	{
-		quote: "Time flows, things change. Their natural tendency to disappear is appreciated. Patterns emerge.",
-		source: "<a href='http://polysingularity.com/archive/' target='_blank'>Polysingularity</a>"
+		quote: "Studies suggest that honest self-presentation may enhance happiness rooted in social support provided by Facebook friends. Alternatively, the number of Facebook friends and positive self-presentation may enhance users' subjective well-being, but this portion of happiness may not be grounded in perceived social support.",
+		source: "<a href='http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0374' target='_blank'>Kim & Lee: 'The Facebook Paths to Happiness' (2011)</a>"
 	},
 	{
-		quote: "Protect. Control. Survive. Wash obsessively. Stop taking drugs. Eat vegan. Use condoms. Be efficient. Be tolerant. Be polite. Be interesting. Be somebody else.",
-		source: "<a href='http://polysingularity.com/recommendations/' target='_blank'>Polysingularity</a>"
+		quote: "Studies have shown that selective self-presentation in digital media, which leads to intensified relationship formation, also increases one's sense of self-esteem.",
+		source: "<a href='http://online.liebertpub.com/doi/abs/10.1089/cyber.2009.0411' target='_blank'>Gonzales & Hancock: Mirror, Mirror on my Facebook Wall (2013)</a>"
 	},
 	{
 		quote: "It is easy to inspect an object, to determine which properties it has, by attempting to retrieve the properties and examining the values obtained. ",
 		source: "<a href='http://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf' target='_blank'>JavaScript, The Good Parts</a>"
 	},
 	{
-		quote: "The best way to make your dreams come true is to wake up and dream lucid.",
-		source: "Paul Valery, remastered"
-	},
-    {
-        quote: "True freedom is impossible without a mind made free by discipline.",
-        source: "Mortimer J. Adler, original"
+        quote: "A Study have shown that Facebook profiles are self-affirming in the sense of satisfying users’ need for self-worth and self-integrity.",
+        source: "<a href='http://www.ncbi.nlm.nih.gov/pubmed/23359086' target='_blank'>Toma & Hancock: 'Self-Affirmation Underlies Facebook Use' (2013)</a>"
     },
     {
-        quote: "The most powerful control we can ever attain, is to be in control of ourselves while releasing it at the same time occasionally.",
-        source: "Chris Page, remastered"
+        quote: "Studies have shown that the more people use Facebook, the more their satisfaction levels decline over time.",
+        source: "<a href='http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0069841' target='_blank'>Kross et al: 'Declines in Subjective Well-Being' (2014)</a>"
+    },
+    {
+        quote: "A Study have shown that Facebook users gravitate toward their online profiles after receiving a blow to the ego, in an unconscious effort to repair their perceptions of self-worth.",
+        source: "<a href='http://www.ncbi.nlm.nih.gov/pubmed/23359086' target='_blank'>Toma & Hancock: 'Self-Affirmation Underlies Facebook Use' (2013)</a>"
     },
     {
         quote: "People commit a forecasting error by expecting to feel better after Facebook use.",
-        source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier, 2014</a>"
+        source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier: 'Facebook’s emotional consequences' (2014)</a>"
     },
     {
         quote: "Facebook activity, but not internet browsing negatively correlates with mood.",
-        source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier, 2014</a>"
+        source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier: 'Facebook’s emotional consequences' (2014)</a>"
     },
     {
         quote: "A feeling of having wasted time accounts for the effect of Facebook activity on mood.",
-        source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier, 2014</a>"
+        source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier: 'Facebook’s emotional consequences' (2014)</a>"
     },
     {
         quote: "Using chance or intuition one may reach a point on the plane which also belongs to another plane, a totally different class of solutions. The creative leap is the ability to recognize this transition point and to jump from one class of solutions to another.",
-        source: "<a href='http://bit.ly/1oXyn9F' target='_blank'>Noy et al, 2012</a>"
+        source: "<a href='http://bit.ly/1oXyn9F' target='_blank'>Noy et al: 'A Quantitive Study of Creative Leaps' (2012)</a>"
     },
     {
-        quote: "If your mind is wandering, take a look in the window.",
+        quote: "Humans perform two types of search: ‘scavenging’, a simple search in their local cluster area, and ‘insight’ relocation to another cluster that cannot be explained by a simple algorithm. The second type of search is associated with creative leaps and novel discoveries.",
+        source: "<a href='http://bit.ly/1oXyn9F' target='_blank'>Noy et al: 'A Quantitive Study of Creative Leaps' (2012)</a>"
+    },
+    {
+        quote: "A filter bubble is a result state in which a website algorithm selectively guesses what information a user would like to see based on information about the user (such as location, past click behaviour and search history) and, as a result, users become separated from information that disagrees with their viewpoints, effectively isolating them in their own cultural or ideological bubbles.",
+        source: "<a href='http://en.wikipedia.org/wiki/Filter_bubble' target='_blank'>Wikipedia article on Filter Bubble</a>"
+    },
+    {
+        quote: "Confirmation bias (also called confirmatory bias or myside bias) is the tendency of people to favor information that confirms their beliefs or hypotheses.",
+        source: "<a href='http://en.wikipedia.org/wiki/Confirmation_bias' target='_blank'>Wikipedia article on Confirmation Bias</a>"
+    },
+    {
+        quote: "In media, an echo chamber is a situation in which information, ideas, or beliefs are amplified or reinforced by transmission and repetition inside an 'enclosed' system, often drowning out different or competing views.",
+        source: "<a href='http://en.wikipedia.org/wiki/Echo_chamber_(media)' target='_blank'>Wikipedia article on Echo Chamber in Media</a>"
+    },
+    {
+        quote: "If your mind is wandering, take a long wandering look in the window.",
         source: "reload page for another advice"
     },
     {
@@ -80,7 +88,7 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "Find a new <a href='https://www.facebook.com/search/me/non-friends/me/friends/friends/intersect'>friend of friend</a>.",
+        quote: "Find a new <a href='https://www.facebook.com/search/me/residents-near/present/me/non-friends/me/friends/friends/intersect'>friend of a friend who lives near you</a>.",
         source: "reload page for another advice"
     },
     {
@@ -96,11 +104,11 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "Maybe call a friend you haven't seen for a while instead?",
+        quote: "Maybe make a 5-minute call to a friend you haven't seen for a while?",
         source: "reload page for another advice"
     },
     {
-        quote: "Visit a website you really like and you haven't visited for a while.",
+        quote: "Try this: breathe in slowly and deeply through your nose on the count of 4, filling your body from bottom to top... breathe out slowly through your mouth on the count of 4, releasing the air in the opposite direction. Repeat for 30 seconds. Watch how it changes everything.",
         source: "reload page for another advice"
     },
     {
@@ -112,7 +120,11 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "Maybe 3 minutes of meditation instead?",
+        quote: "Try to change your position and point of view... wait... then reload this page.",
+        source: "reload page for another advice"
+    },
+    {
+        quote: "Maybe 3 minutes of meditation instead? Or just closed eyes in the silence at some other spot, not in front of the screen...",
         source: "reload page for another advice"
     }
 ];
