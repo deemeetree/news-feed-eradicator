@@ -1,120 +1,84 @@
 var quoteList = [ 
 	{
-		quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-		source: "Lao Tzu"
+		quote: "Do not let the Ghetto pull you back. But do let it give you strength and power to escape into Cosmos. Sometimes we need the opposing force to be stronger.",
+		source: "a ghetto wisdom"
 	},
 	{
-		quote: "In character, in manner, in style, in all things, the supreme excellence is simplicity.",
-		source: "Henry Wadsworth Longfellow"
+		quote: "It's good to be in the center of things when you know what you have to offer. It's also good to be in the center of things to know what you can offer. But then what you offer will be very much related to what the center demands...",
+		source: "a friendly advice"
 	},
 	{
-		quote: "If we don't discipline ourselves, the world will do it for us.",
-		source: "William Feather"
+		quote: "If we don't discipline ourselves, the world will do it for us on its own terms.",
+		source: "William Feather, remixed"
 	},
 	{
-		quote: "Rule your mind or it will rule you.",
-		source: "Horace"
+		quote: "Rule your mind or it will rule you. Let your mind rule you or you will have to rule it yourself. Rule out any necessity to rule and start steering instead.",
+		source: "Horace, chopped & screwed"
 	},
 	{
-		quote: "All that we are is the result of what we have thought.",
-		source: "Buddha"
+		quote: "All that we are is the result of what we have thought. What we have thought, however, is the result of what we are. Nonequilibrium stability of one's own existence is based on this feedback loop.",
+		source: "Buddha, remixed"
 	},
 	{
-		quote: "Doing just a little bit during the time we have available puts you that much further ahead than if you took no action at all.",
-		source: "Pulsifer, Take Action; Don't Procrastinate"
+		quote: "Every particle is exploding and emploding at every moment of time.",
+		source: "benevolent benefactor"
 	},
 	{
-		quote: "Never leave that till tomorrow which you can do today.",
-		source: "Benjamin Franklin"
+		quote: "The most plausible mechanism for large-scale integration is the formation of dynamic links mediated by synchrony over multiple frequency bands.",
+		source: "Francisco Varela"
 	},
 	{
-		quote: "Procrastination is like a credit card: it's a lot of fun until you get the bill.",
-		source: "Christopher Parker"
+		quote: "Time flows, things change. Their natural tendency to disappear is appreciated. Patterns emerge.",
+		source: "an archiving enthusiast"
 	},
 	{
-		quote: "Someday is not a day of the week.",
-		source: "Author Unknown"
+		quote: "Summer follows the spring. Smoking kills. Objects in mirrors may appear smaller. Trespassers will be persecuted. Cause always follows the effect.",
+		source: "an obscure authority"
 	},
 	{
-		quote: "Tomorrow is often the busiest day of the week.",
-		source: "Spanish Proverb"
+		quote: "Protect. Control. Survive. Wash obsessively. Stop taking drugs. Eat vegan. Use condoms. Be efficient. Be tolerant. Be polite. Be interesting. Be somebody else.",
+		source: "an inner voice from the outside"
 	},
 	{
-		quote: "I can accept failure, everyone fails at something. But I can't accept not trying.",
-		source: "Michael Jordan"
+		quote: "I can try to accept failure, everyone fails at something. But I can't try to accept not trying.",
+		source: "Michael Jordan, remastered"
 	},
 	{
-		quote: "There’s a myth that time is money. In fact, time is more precious than money. It’s a nonrenewable resource. Once you’ve spent it, and if you’ve spent it badly, it’s gone forever.",
-		source: "Neil A. Fiore"
+		quote: "There’s a myth that time is money. In fact, time is more precious than money. Once you’ve spent it, it’s gone forever. However, time has the capacity to stretch, warp, and form circular patterns. Therefore just like one can change one's perception of time, one can also change one's perception of money.",
+		source: "Neil A. Fiore, screwed"
 	},
 	{
-		quote: "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
-		source: "Thomas Jefferson"
+		quote: "It is easy to inspect an object, to determine which properties it has, by attempting to retrieve the properties and examining the values obtained. ",
+		source: "a book on JavaScript"
 	},
 	{
 		quote: "There is only one success--to be able to spend your life in your own way.",
 		source: "Christopher Morley"
 	},
 	{
-		quote: "Success is the good fortune that comes from aspiration, desperation, perspiration and inspiration.",
-		source: "Evan Esar"
+		quote: "Success is the good fortune that comes from aspiration, desperation, transformation, dedication, perspiration, inspiration, information, revelation, creation, abstraction, penetration, commitment, and will.",
+		source: "Evan Esar, modified"
 	},
 	{
 		quote: "We are still masters of our fate. We are still captains of our souls.",
 		source: "Winston Churchill"
 	},
 	{
-		quote: "Our truest life is when we are in dreams awake.",
-		source: "Henry David Thoreau"
+		quote: "The best way to make your dreams come true is to wake up and dream lucid.",
+		source: "Paul Valery, remastered"
 	},
-	{
-		quote: "The best way to make your dreams come true is to wake up.",
-		source: "Paul Valery"
-	},
-	{
-		quote: "Life without endeavor is like entering a jewel mine and coming out with empty hands.",
-		source: "Japanese Proverb"
-	},
-	{
-		quote: "Happiness does not consist in pastimes and amusements but in virtuous activities.",
-		source: "Aristotle"
-	},
-    {
-        quote: "By constant self-discipline and self-control, you can develop greatness of character.",
-        source: "Grenville Kleiser"
-    },
     {
         quote: "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
         source: "Vince Lombardi Jr."
-    },
-    {
-        quote: "At the end of the day, let there be no excuses, no explanations, no regrets.",
-        source: "Steve Maraboli"
-    },
-    {
-        quote: "Inaction will cause a man to sink into the slough of despond and vanish without a trace.",
-        source: "Farley Mowat"
     },
     {
         quote: "True freedom is impossible without a mind made free by discipline.",
         source: "Mortimer J. Adler"
     },
     {
-        quote: "The most powerful control we can ever attain, is to be in control of ourselves.",
-        source: "Chris Page"
-    },
-    {
-        quote: "Idleness is only the refuge of weak minds, and the holiday of fools.",
-        source: "Philip Dormer Stanhope"
-    },
-    {
-        quote: "This is your life and it's ending one minute at a time.",
-        source: "Tyler Durden, Fight Club"
-    },
-	{
-		quote: "You create opportunities by performing, not complaining.",
-		source: "Muriel Siebert"
-	}
+        quote: "The most powerful control we can ever attain, is to be in control of ourselves while releasing it at the same time occasionally.",
+        source: "Chris Page, remastered"
+    }
 ];
 
 
