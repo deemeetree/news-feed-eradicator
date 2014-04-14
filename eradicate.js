@@ -1,5 +1,25 @@
 var quoteList = [ 
 	{
+        quote: "If we don't discipline ourselves, the world will do it for us. On its own terms.",
+        source: "William Feather, <a href='http://polysingularity.com/refusal-free-will-turin-horse/' target='_blank'>remixed</a>"
+    },
+    {
+        quote: "Every particle is exploding and emploding at every moment of time.",
+        source: "<a href='http://polysingularity.com/explosive-implosion/' target='_blank'>explosive implosion of DNA replication</a>"
+    },
+    {
+        quote: "Time flows, things change. Their natural tendency to disappear is appreciated. Patterns emerge.",
+        source: "<a href='http://polysingularity.com/' target='_blank'>Polysingularity</a>"
+    },
+    {
+        quote: "The best way to make your dreams come true is to wake up and dream lucid.",
+        source: "Paul Valery, <a href='http://polysingularity.com/dream-reason/' target='_blank'>remixed</a>"
+    },
+    {
+        quote: "True freedom is impossible without a mind made free by discipline.",
+        source: "Mortimer J. Adler, <a href='http://polysingularity.com/intention/' target='_blank'>remixed</a>"
+    },
+    {
 		quote: "The most plausible mechanism for large-scale integration is the formation of dynamic links mediated by synchrony over multiple frequency bands.",
 		source: "<a href='http://www.nature.com/nrn/journal/v2/n4/abs/nrn0401_229a.html' target='_blank'>Varela et al 2001</a>"
 	},
