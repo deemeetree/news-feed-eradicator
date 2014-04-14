@@ -1,6 +1,6 @@
 {
 	"name": "Clean Facebook Newsfeed Filter Bubble",
-	"version": "0.7.0",
+	"version": "0.7.1",
 	"description": "A set of instructions and interesting links that will take you out of Facebook filter bubble through polysingularity practice.",
 	"manifest_version": 2,
 	"permissions": [
