@@ -64,7 +64,7 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "There are people who <a href='https://www.facebook.com/search/me/residents-near/present'>live just a few minutes away</a> - maybe you could visit one of them...",
+        quote: "There are people who <a href='https://www.facebook.com/search/me/residents-near/present'>live just a few minutes away</a> - maybe you could meet one of them...",
         source: "reload page for another advice"
     },
     {
