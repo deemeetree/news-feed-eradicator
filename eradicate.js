@@ -4,11 +4,11 @@ var quoteList = [
 		source: "<a href='http://www.nature.com/nrn/journal/v2/n4/abs/nrn0401_229a.html' target='_blank'>Varela et al 2001</a>"
 	},
 	{
-		quote: "Studies suggest that honest self-presentation may enhance happiness rooted in social support provided by Facebook friends. Alternatively, the number of Facebook friends and positive self-presentation may enhance users' subjective well-being, but this portion of happiness may not be grounded in perceived social support.",
+		quote: "Studies suggest that honest self-presentation may enhance happiness rooted in social support (<a href='https://www.facebook.com/search/recent-photos/me/photos-of/me/friends/photos-liked/intersect'># of likes</a>) provided by Facebook friends. Alternatively, the number of Facebook friends and positive self-presentation may enhance users' subjective well-being, but this portion of happiness may not be grounded in perceived social support. E.g. the more honest you are, the more you care about <a href='https://www.facebook.com/search/me/photos/likers/me/friends/intersect'>the feedback</a>.",
 		source: "<a href='http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0374' target='_blank'>Kim & Lee: 'The Facebook Paths to Happiness' (2011)</a>"
 	},
 	{
-		quote: "Studies have shown that selective self-presentation in digital media, which leads to intensified relationship formation, also increases one's sense of self-esteem.",
+		quote: "Studies have shown that <a href='https://www.facebook.com/search/me/photos-of/me/friends/photos-liked/intersect'>selective self-presentation in digital media</a>, which leads to intensified relationship formation, also increases one's sense of self-esteem.",
 		source: "<a href='http://online.liebertpub.com/doi/abs/10.1089/cyber.2009.0411' target='_blank'>Gonzales & Hancock: Mirror, Mirror on my Facebook Wall (2013)</a>"
 	},
 	{
@@ -32,7 +32,7 @@ var quoteList = [
         source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier: 'Facebook’s emotional consequences' (2014)</a>"
     },
     {
-        quote: "Facebook activity, but not internet browsing negatively correlates with mood.",
+        quote: "Facebook activity, but not internet browsing negatively correlates with good mood.",
         source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier: 'Facebook’s emotional consequences' (2014)</a>"
     },
     {
@@ -40,15 +40,15 @@ var quoteList = [
         source: "<a href='http://www.sciencedirect.com/science/article/pii/S0747563214001241' target='_blank'>Sagioglou & Greitemeier: 'Facebook’s emotional consequences' (2014)</a>"
     },
     {
-        quote: "Using chance or intuition one may reach a point on the plane which also belongs to another plane, a totally different class of solutions. The creative leap is the ability to recognize this transition point and to jump from one class of solutions to another.",
+        quote: "Using chance or intuition one may reach a point on the plane which also belongs to another plane, a totally different class of solutions. The creative leap is the ability to recognize this transition point and to <a href='https://twitter.com/search?q=%23Creativity'>jump from one class of solutions to another</a>.",
         source: "<a href='http://bit.ly/1oXyn9F' target='_blank'>Noy et al: 'A Quantitive Study of Creative Leaps' (2012)</a>"
     },
     {
-        quote: "Humans perform two types of search: ‘scavenging’, a simple search in their local cluster area, and ‘insight’ relocation to another cluster that cannot be explained by a simple algorithm. The second type of search is associated with creative leaps and novel discoveries.",
+        quote: "Humans perform two types of search: ‘scavenging’, a simple search in their local cluster area, and ‘insight’ <a href='http://sampler.tumblr.com/'>relocation to another cluster</a> that cannot be explained by a simple algorithm. The second type of search is associated with creative leaps and novel discoveries.",
         source: "<a href='http://bit.ly/1oXyn9F' target='_blank'>Noy et al: 'A Quantitive Study of Creative Leaps' (2012)</a>"
     },
     {
-        quote: "A filter bubble is a result state in which a website algorithm selectively guesses what information a user would like to see based on information about the user (such as location, past click behaviour and search history) and, as a result, users become separated from information that disagrees with their viewpoints, effectively isolating them in their own cultural or ideological bubbles.",
+        quote: "A filter bubble is a result state in which a website algorithm selectively guesses what information a user would like to see based on information about the user (such as location, past click behaviour and search history) and, as a result, users become separated from information that disagrees with their viewpoints, effectively isolating them in their own <a href='https://www.facebook.com/search/me/friends/pages-liked/interest/pages/intersect'>cultural or ideological bubbles</a>.",
         source: "<a href='http://en.wikipedia.org/wiki/Filter_bubble' target='_blank'>Wikipedia article on Filter Bubble</a>"
     },
     {
@@ -96,7 +96,7 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "Uhm... maybe 5 minutes of exercises instead?",
+        quote: "Stretch, move your wrists, your neck, your shoulders, your eyes. Notice what changes.",
         source: "reload page for another advice"
     },
     {
@@ -108,7 +108,7 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "Try this: breathe in slowly and deeply through your nose on the count of 4, filling your body from bottom to top... breathe out slowly through your mouth on the count of 4, releasing the air in the opposite direction. Repeat for 30 seconds. Watch how it changes everything.",
+        quote: "Try this: breathe in slowly and deeply through your nose on the count of 4, gradually filling your body with air... breathe out slowly through your mouth on the count of 4, releasing the air. Repeat for 30 seconds. Watch how it changes everything.",
         source: "reload page for another advice"
     },
     {
@@ -124,7 +124,7 @@ var quoteList = [
         source: "reload page for another advice"
     },
     {
-        quote: "Maybe 3 minutes of meditation instead? Or just closed eyes in the silence at some other spot, not in front of the screen...",
+        quote: "Maybe 3 minutes of meditation instead? Or just closed eyes in silence away from the screen...",
         source: "reload page for another advice"
     }
 ];
